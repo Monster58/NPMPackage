@@ -1,0 +1,14 @@
+{
+  "name": "utilsjs",
+  "version": "1.0.0",
+  "description": "js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "工具库"
+  ],
+  "author": "zhaojianwei",
+  "license": "MIT"
+}

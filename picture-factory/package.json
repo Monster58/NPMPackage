@@ -1,0 +1,19 @@
+{
+  "name": "picture-factory",
+  "version": "1.0.1",
+  "description": "图像压缩、图像转base64、base64转图像。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monster58/image-factory.git"
+  },
+  "author": "zhaojianwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monster58/image-factory/issues"
+  },
+  "homepage": "https://github.com/Monster58/image-factory#readme"
+}

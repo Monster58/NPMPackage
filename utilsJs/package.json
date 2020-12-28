@@ -1,14 +1,15 @@
 {
-  "name": "utilsjs",
+  "name": "zjw-utils",
   "version": "1.0.0",
   "description": "js工具库",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "工具库"
   ],
   "author": "zhaojianwei",
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/Monster58/NPMPackage/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Monster58/NPMPackage/tree/main/utilsJs#readme"
 }

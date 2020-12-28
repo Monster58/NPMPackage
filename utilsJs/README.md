@@ -3,7 +3,7 @@
 ## [Installation](#Installation)
 Using npm:
 ```javascript
-npm install --save utilsJs 
+npm install --save @zjw/utils 
 ```
 
 ## Browser Support
